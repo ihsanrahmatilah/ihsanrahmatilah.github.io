@@ -1,0 +1,19 @@
+.jumbotron { 
+    padding-top: 10rem;
+    background-color: #dff8f6;
+}
+.containerprofile {
+    background-color: #dff8f6;
+}
+/* #projects {
+    background-color: #dff8f6
+} */
+section {
+    padding-top: 5rem;
+}
+.gallery-img {
+    width: 100%;
+}
+#gallery .row > * {
+    padding: 0;
+}
